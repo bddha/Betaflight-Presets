@@ -2258,10 +2258,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/jumper_tpro.txt",
-      "hash": "528ea3e341dc0f0628eb6d78e641dce331f31e9988924b4cc14b9ecaab8b8f48",
+      "hash": "a2b302105e6e35954965b331a2bd6f3e32ffdd40163f9d07513a63e0daf80867",
       "title": "Setup your default remote settings",
       "firmware_version": [
-        "4.3"
+        "4.2",
+        "4.3",
+        "4.4"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",

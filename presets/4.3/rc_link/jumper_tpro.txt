@@ -1,5 +1,7 @@
 #$ TITLE: Setup your default remote settings
+#$ FIRMWARE_VERSION: 4.2
 #$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RC_LINK
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: defaults, Rx, Aux, Modes

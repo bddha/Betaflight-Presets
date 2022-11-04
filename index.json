@@ -153,6 +153,7 @@
       "Alex Campbell (Chief)",
       "Alex Vanover",
       "AyyyKayyy - Anthony Knight",
+      "Bddha",
       "benlumley",
       "Betaflight",
       "BMSThomas",
@@ -173,7 +174,6 @@
       "Jye Smith",
       "KMfpv",
       "LeadFingers",
-      "Manuel",
       "MinChan Kim",
       "mouseFPV",
       "MrAlucardDante",
@@ -2258,7 +2258,7 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/jumper_tpro.txt",
-      "hash": "b5fe863860bebc0b353341e572a2c682622213d94ed9fe9aa76b1cbd44d5d6aa",
+      "hash": "528ea3e341dc0f0628eb6d78e641dce331f31e9988924b4cc14b9ecaab8b8f48",
       "title": "Setup your default remote settings",
       "firmware_version": [
         "4.3"
@@ -2271,7 +2271,7 @@
         "Aux",
         "Modes"
       ],
-      "author": "Manuel",
+      "author": "Bddha",
       "priority": 0
     },
     {

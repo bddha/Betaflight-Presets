@@ -851,6 +851,26 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/modes/jumper_tpro.txt",
+      "hash": "281060f86267625697122bd5ac1901ed196eb625d3a740f13c6f0339825f9941",
+      "title": "Setup your default remote settings",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "Rx",
+        "Aux",
+        "Modes"
+      ],
+      "author": "Bddha",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/osd/UAV_tech_Analog.txt",
       "hash": "b304bd4f3d0e6ab42840badced7e07847ca654c5fd048dba8c53b96128788763",
       "title": "UAV Tech - Analog",
@@ -2255,26 +2275,6 @@
       "author": "Ivan Efimov (Limon)",
       "force_options_review": true,
       "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/jumper_tpro.txt",
-      "hash": "a2b302105e6e35954965b331a2bd6f3e32ffdd40163f9d07513a63e0daf80867",
-      "title": "Setup your default remote settings",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "Rx",
-        "Aux",
-        "Modes"
-      ],
-      "author": "Bddha",
-      "priority": 0
     },
     {
       "fullPath": "presets/4.3/rc_link/redpine_666hz.txt",

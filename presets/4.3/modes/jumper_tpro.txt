@@ -78,6 +78,6 @@ aux 4 35 2 900 1300 0 0 #turtlemode
     #$ OPTION END
 
     #$ OPTION BEGIN (UNCHECKED): Beeper mute
-        
+        #todo
     #$ OPTION END
 #$ OPTION_GROUP END

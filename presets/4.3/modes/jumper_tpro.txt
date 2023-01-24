@@ -67,14 +67,14 @@ adjrange 27 0 0 900 900 0 0 0 0
 adjrange 28 0 0 900 900 0 0 0 0
 adjrange 29 0 0 900 900 0 0 0 0
 
-set aux 0 0 0 1700 2100 0 0 #arm
-set aux 1 1 2 1700 2100 0 0 #angle
-set aux 2 13 1 1700 2100 0 0 #beeper on
-set aux 4 35 2 900 1300 0 0 #turtlemode
+aux 0 0 0 1700 2100 0 0 #arm
+aux 1 1 2 1700 2100 0 0 #angle
+aux 2 13 1 1700 2100 0 0 #beeper on
+aux 4 35 2 900 1300 0 0 #turtlemode
 
 #$ OPTION_GROUP BEGIN: Extra settings...
     #$ OPTION BEGIN (UNCHECKED): Runcam camera
-        set aux 3 33 4 1700 2100 0 0 #camera control
+        aux 3 33 4 1700 2100 0 0 #camera control
     #$ OPTION END
 
     #$ OPTION BEGIN (UNCHECKED): Beeper mute

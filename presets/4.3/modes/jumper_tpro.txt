@@ -1,12 +1,12 @@
-#$ TITLE: Setup your default remote settings
+#$ TITLE: Jumper T-Pro Setup
 #$ FIRMWARE_VERSION: 4.2
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RC_LINK
 #$ STATUS: OFFICIAL
-#$ KEYWORDS: defaults, Rx, Aux, Modes
+#$ KEYWORDS: Rx, Aux, Modes
 #$ AUTHOR: Bddha
-#$ DESCRIPTION: Sets the AUX channels to the default
+#$ DESCRIPTION: Sets the AUX channels
 #$ PRIORITY: 0
 
 # NOTE TO AUTHORS: Always include this Preset in any RC Preset
@@ -72,12 +72,10 @@ aux 1 1 2 1700 2100 0 0 #angle
 aux 2 13 1 1700 2100 0 0 #beeper on
 aux 4 35 2 900 1300 0 0 #turtlemode
 
-#$ OPTION_GROUP BEGIN: Extra settings...
-    #$ OPTION BEGIN (UNCHECKED): Runcam camera
-        aux 3 33 4 1700 2100 0 0 #camera control
-    #$ OPTION END
+#$ OPTION BEGIN (UNCHECKED): Runcam camera
+    aux 3 33 4 1700 2100 0 0 #camera control
+#$ OPTION END
 
-    #$ OPTION BEGIN (UNCHECKED): Beeper mute
-        #todo
-    #$ OPTION END
-#$ OPTION_GROUP END
+#$ OPTION BEGIN (UNCHECKED): Beeper mute
+    #todo
+#$ OPTION END

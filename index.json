@@ -852,8 +852,8 @@
     },
     {
       "fullPath": "presets/4.3/modes/jumper_tpro.txt",
-      "hash": "281060f86267625697122bd5ac1901ed196eb625d3a740f13c6f0339825f9941",
-      "title": "Setup your default remote settings",
+      "hash": "d040ba80e7f833d0156c07368180a086ccadd73030311baacee0e1fc73bc4f7d",
+      "title": "Jumper T-Pro Setup",
       "firmware_version": [
         "4.2",
         "4.3",
@@ -862,7 +862,6 @@
       "category": "RC_LINK",
       "status": "OFFICIAL",
       "keywords": [
-        "defaults",
         "Rx",
         "Aux",
         "Modes"
@@ -928,6 +927,21 @@
       "keywords": [
         "defaults",
         "reset",
+        "OSD"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/dji_osd.txt",
+      "hash": "20060bb4ecfd6a57e123dd03fdf6770e984ccc295cb7196c4173dc6954e9937a",
+      "title": "Bddha's OSD settings for DJI",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
         "OSD"
       ],
       "author": "Betaflight",
@@ -3541,6 +3555,21 @@
       ],
       "author": "sugarK",
       "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.4/osd/hd_dji_osd.txt",
+      "hash": "6ad473b93f249ed04680301a0b57dcf63c38b873a7a8caafe41b310455a8a3ce",
+      "title": "Bddha's HD OSD settings for DJI",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "Bddha",
+      "priority": 0
     },
     {
       "fullPath": "presets/4.4/other/Tehllama_5in_Race_Multivoltage.txt",
